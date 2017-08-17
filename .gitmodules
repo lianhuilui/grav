@@ -1,0 +1,3 @@
+[submodule "user/themes/medium"]
+	path = user/themes/medium
+	url = https://github.com/lianhuilui/grav-theme-medium.git
